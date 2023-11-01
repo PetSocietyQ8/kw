@@ -5774,6 +5774,9 @@ a.close.disabled {
 }
 
 .modal-footer > * {
+	position: fixed;
+	 left: 0;
+  bottom: 0;
   margin: 0.25rem;
 }
 
@@ -9838,3 +9841,5 @@ h6 {
   padding: 0;
   list-style-type: none;
 }
+
+
